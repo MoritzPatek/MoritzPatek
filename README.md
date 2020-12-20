@@ -4,7 +4,7 @@
 
 ## :trophy: My Github Stats
 
-<img align="left" alt="TobiasPressler's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TobiasPressler&show_icons=true&hide_border=true" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MoritzPatek&show_icons=true&hide_border=true" />
 <!--
 **MoritzPatek/MoritzPatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
