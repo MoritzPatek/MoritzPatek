@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on software for the austrian goverment
+- 🌱 I’m currently learning about machine leaning and neural networks
 
 
 <!--
