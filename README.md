@@ -2,7 +2,9 @@
 - 🔭 I’m currently working on software for the austrian goverment
 - 🌱 I’m currently learning about machine leaning and neural networks
 
+## :trophy: My Github Stats
 
+<img align="left" alt="TobiasPressler's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TobiasPressler&show_icons=true&hide_border=true" />
 <!--
 **MoritzPatek/MoritzPatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
