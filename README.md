@@ -2,6 +2,9 @@
 - 🔭 I’m currently working on software for the austrian goverment
 - 🌱 I’m currently learning about machine leaning and neural networks
 
+## About me 
+- I'm a full stack developer
+
 ## :trophy: My Github Stats
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MoritzPatek&show_icons=true&hide_border=true" />
