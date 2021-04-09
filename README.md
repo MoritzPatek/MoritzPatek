@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on software for the austrian goverment
-- 🌱 I’m currently learning about machine leaning and neural networks
+- 🔭 I’m currently working on the backend of the commercial project "Babyelefant"
+- 🌱 I’m learning frontend developemnt and about AI
 
 ## About me 
 - I'm a full stack developer
