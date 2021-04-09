@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on the backend of the commercial project "Babyelefant"
-- 🌱 I’m learning frontend developemnt and about AI
+- 🌱 I’m learning frontend development and about AI
 
 ## About me 
 - I'm a full stack developer
